@@ -1,0 +1,15 @@
+port=7312
+server=1
+daemon=1
+rpcuser=Zer0DJLY9BB2os4oMyoaov0Ou8lbaw
+rpcpassword=TZffDUHYAHpSpW4mR6HfGvQucsuhaf
+generate=0
+txindex=1
+addnode=146.185.148.114
+addnode=192.241.171.45
+addnode=188.166.6.99
+addnode=176.9.59.110
+addnode=162.243.107.112
+addnode=128.199.116.119
+addnode=207.154.239.148
+addnode=192.241.201.19
