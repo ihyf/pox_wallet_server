@@ -2,7 +2,7 @@
 from create_app import create_app
 from util.db_redis import redis_store
 from werkzeug.contrib.fixers import ProxyFix
-from util.mysql_db import db_manager
+# from util.mysql_db import db_manager
 import time
 
 app = create_app()
